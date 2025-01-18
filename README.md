@@ -9,6 +9,12 @@ The dataset used in this project contains information about air pollutants from 
 - **Geographical Coordinates**: Latitude and longitude.
 - **Pollutant Data**: Minimum, maximum, and average levels for pollutants like PM10, PM2.5, NH3, and OZONE.
 
+## Technologies Used
+- **Programming Language**: Python
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Data Source**: Open Government Data (OGD) Platform India, Central Pollution Control Board (CPCB)
+- **Machine Learning Models**: KNN, SVM, Decision Tree, Random Forest, Naive Bayes, Logistic Regression
+
 ### Dataset Summary
 - **Total Records**: 1,291 (after cleaning).
 - **Pollutants Monitored**: PM10, PM2.5, NH3, OZONE, and others.
