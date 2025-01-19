@@ -45,14 +45,14 @@ The following machine learning algorithms were implemented and evaluated:
 
 | Model                | Accuracy (%) |
 |----------------------|--------------|
-| K-Nearest Neighbors (KNN) | 51.84        |
-| Support Vector Machine (SVM) | 61.40       |
-| Decision Tree         | 73.90        |
-| Random Forest         | **75.00**    |
+| K-Nearest Neighbors (KNN) | 61.4        |
+| Support Vector Machine (SVM) | 61.4       |
+| Decision Tree         | 73.9        |
+| Random Forest         | **77.57**    |
 | Naive Bayes           | 70.22        |
 | Logistic Regression   | 51.84        |
 
-**Best Model**: Random Forest with an accuracy of 75%.
+**Best Model**: Random Forest with an accuracy of 77.57%.
 
 ## Visualizations
 The project includes several insightful visualizations to better understand the data:
@@ -65,7 +65,7 @@ The project includes several insightful visualizations to better understand the 
 6. **Box Plot**: Distribution of pollutant average levels by pollutant ID.
 
 ## Key Findings
-1. **Best Model**: Random Forest performed the best, achieving an accuracy of 75%.
+1. **Best Model**: Random Forest performed the best, achieving an accuracy of 77.57%.
 2. **Pollutant Variability**: PM10 and PM2.5 showed higher variability and outlier levels.
 3. **Geographical Trends**: Monitoring stations are geographically diverse, with significant pollutant differences across locations.
 4. **Correlations**: Strong positive correlations among minimum, maximum, and average pollutant levels.
